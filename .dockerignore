@@ -1,0 +1,11 @@
+.git
+*.db
+docs
+logs
+.idea
+tests
+scripts
+htmlcov
+.coverage
+__pycache__
+.pytest_cache
